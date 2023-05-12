@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 body,  html{
   padding: 0;
   margin: 0;
@@ -72,4 +73,9 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 >>>>>>> 3d18078 (fix package.json)
+=======
+body,  html{
+  padding: 0;
+  margin: 0;
+>>>>>>> 82a07b6 (make layout)
 }
