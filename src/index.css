@@ -1,12 +1,7 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 body,  html{
   padding: 0;
   margin: 0;
-=======
-=======
->>>>>>> 3d18078 (fix package.json)
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -75,13 +70,8 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
-<<<<<<< HEAD
->>>>>>> 3d18078 (fix package.json)
-=======
+
 body,  html{
   padding: 0;
   margin: 0;
->>>>>>> 82a07b6 (make layout)
-=======
->>>>>>> 3d18078 (fix package.json)
 }
